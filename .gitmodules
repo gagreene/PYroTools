@@ -6,3 +6,6 @@
 	path = fire_weather/cffdrs
 	url = https://github.com/gagreene/cffdrs.git
 	ignore = dirty
+[submodule "fire_behavior/Flame_Components"]
+	path = fire_behavior/Flame_Components
+	url = https://github.com/gagreene/Flame_Components.git
