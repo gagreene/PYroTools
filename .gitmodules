@@ -1,6 +1,8 @@
 [submodule "fire_weather/WindNinja"]
 	path = fire_weather/WindNinja
 	url = https://github.com/gagreene/WindNinja.git
+	ignore = ditry
 [submodule "fire_weather/cffdrs"]
 	path = fire_weather/cffdrs
 	url = https://github.com/gagreene/cffdrs.git
+	ignore = ditry
