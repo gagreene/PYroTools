@@ -1,0 +1,3 @@
+[submodule "fire_weather/WindNinja"]
+	path = fire_weather/WindNinja
+	url = https://github.com/gagreene/WindNinja.git
