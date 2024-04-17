@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![PYro Tools Logo](/docs/assets/PYroTools_Image.jpg "PYro Tools Logo")
+![PYro Tools Logo](/PYroTools/docs/assets/PYroTools_Image.jpg "PYro Tools Logo")
 <h2 style="text-align: center;">A library of Python scripts for wildfire weather, behavior, effects, and emissions modelling</h2>
 <p>&nbsp;</p>
 
@@ -16,7 +16,7 @@ layout: default
 
 <p>&nbsp;</p>
 
-### **Fire Effects & Emissiosn Tools**
+### **Fire Effects & Emissions Tools**
 >
 
 <p>&nbsp;</p>
