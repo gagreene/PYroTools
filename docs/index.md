@@ -15,8 +15,8 @@ layout: default
 <p>&nbsp;</p>
 
 ### Fire Behavior Tools
->
-
+> - [Flame Components](https://github.com/gagreene/Flame_Components/tree/7bfa7d2d2c6ba2d9bb030e16b4faea2d524508fa)
+>     - Model all the components of flames (length, tilt, depth, height)
 <p>&nbsp;</p>
 
 ### Fire Effects & Emissions Tools
