@@ -7,19 +7,25 @@ layout: default
 </p>
 <p>&nbsp;</p>
 
-### Fire Weather Tools
-> - [WindNinja](https://github.com/gagreene/WindNinja/tree/962303640c8fabdf1c62c3121deff248fd90b49e)
+### Wildfire Weather Tools
+> - [CFFWIS](https://github.com/gagreene/cffdrs)
+>     - Generate Canadian Forest Fire Weather Index System variables
+> - [WindNinja](https://github.com/gagreene/WindNinja)
 >     - Run WindNinja modelling through the command line interface (CLI)
-> - [CFFWIS](https://github.com/gagreene/cffdrs/tree/a66cc2d0c739de91e1842b1156bccb76730f12d7)
->     - Generate Canadian Forest Fire Weather Index System variables with int/float values or arrays as inputs
 <p>&nbsp;</p>
 
-### Fire Behavior Tools
->
-
+### Wildfire Fuels Tools
+> - [BCWS Fuel Typing](https://github.com/gagreene/BC_CFFBPS_FuelTyping_Tool)
+>     - Assign CFFBPS fuel types using the British Columbia Wildfire Service fuel typing algorithm (Perrakis et al. 2018)
 <p>&nbsp;</p>
 
-### Fire Effects & Emissions Tools
->
+### Wildfire Behavior Tools
+> - [CFFBPS](https://github.com/gagreene/cffdrs)
+>     - Model fire behavior with the Canadian Forest Fire Behavior Predictions System
+> - [Flame Components](https://github.com/gagreene/Flame_Components)
+>     - Model all the components of flames (length, tilt, depth, height)
+<p>&nbsp;</p>
 
+### Wildfire Effects & Emissions Tools
+>
 <p>&nbsp;</p>
