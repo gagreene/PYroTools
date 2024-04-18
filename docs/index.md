@@ -16,7 +16,7 @@ layout: default
 
 ### Wildfire Fuels Tools
 > - [BCWS Fuel Typing](https://github.com/gagreene/BC_CFFBPS_FuelTyping_Tool)
->     - Assign CFFBPS fuel types using the BC Wildfire Service fuel typing algorithm (Perrakis et al. 2018)
+>     - Assign CFFBPS fuel types using the British Columbia Wildfire Service fuel typing algorithm (Perrakis et al. 2018)
 <p>&nbsp;</p>
 
 ### Wildfire Behavior Tools
