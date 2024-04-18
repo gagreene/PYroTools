@@ -12,3 +12,6 @@
 [submodule "fire_fuels/BC_CFFBPS_FuelTyping_Tool"]
 	path = fire_fuels/BC_CFFBPS_FuelTyping_Tool
 	url = https://github.com/gagreene/BC_CFFBPS_FuelTyping_Tool
+[submodule "fire_behavior/cffdrs"]
+	path = fire_behavior/cffdrs
+	url = https://github.com/gagreene/cffdrs
