@@ -9,3 +9,6 @@
 [submodule "fire_behavior/Flame_Components"]
 	path = fire_behavior/Flame_Components
 	url = https://github.com/gagreene/Flame_Components.git
+[submodule "fire_fuels/BC_CFFBPS_FuelTyping_Tool"]
+	path = fire_fuels/BC_CFFBPS_FuelTyping_Tool
+	url = https://github.com/gagreene/BC_CFFBPS_FuelTyping_Tool
