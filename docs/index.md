@@ -11,7 +11,7 @@ layout: default
 > - [WindNinja](https://github.com/gagreene/WindNinja)
 >     - Run WindNinja modelling through the command line interface (CLI)
 > - [CFFWIS](https://github.com/gagreene/cffdrs)
->     - Generate Canadian Forest Fire Weather Index System variables with int/float values or arrays as inputs
+>     - Generate Canadian Forest Fire Weather Index System variables
 <p>&nbsp;</p>
 
 ### Fire Behavior Tools
