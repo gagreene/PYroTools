@@ -15,3 +15,6 @@
 [submodule "fire_behavior/cffdrs"]
 	path = fire_behavior/cffdrs
 	url = https://github.com/gagreene/cffdrs
+[submodule "helper_tools/ProcessGeospatial"]
+	path = helper_tools/ProcessGeospatial
+	url = https://github.com/gagreene/ProcessGeospatial
