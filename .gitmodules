@@ -18,3 +18,6 @@
 [submodule "helper_tools/ProcessGeospatial"]
 	path = helper_tools/ProcessGeospatial
 	url = https://github.com/gagreene/ProcessGeospatial
+[submodule "fire_weather/BCWS_WxStation_Data"]
+	path = fire_weather/BCWS_WxStation_Data
+	url = https://github.com/gagreene/BCWS_WxStation_Data
