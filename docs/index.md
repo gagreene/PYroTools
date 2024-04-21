@@ -23,7 +23,7 @@ layout: default
 
 ### Wildfire Behavior Tools
 > - [CFFBPS](https://github.com/gagreene/cffdrs)
->     - Model fire behavior with the Canadian Forest Fire Behavior Predictions System
+>     - Model fire behavior with the Canadian Forest Fire Behavior Prediction System
 > - [Flame Components](https://github.com/gagreene/Flame_Components)
 >     - Model all the components of flames (length, tilt, depth, height)
 <p>&nbsp;</p>
