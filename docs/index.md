@@ -3,7 +3,7 @@ layout: default
 ---
 
 <p align="center" width="100%">
-    <img width="66%" src="assets/PYroTools_Image.jpg">
+    <img width="66%" src="assets/PYroTools_Image_.jpg">
 </p>
 <p>&nbsp;</p>
 
