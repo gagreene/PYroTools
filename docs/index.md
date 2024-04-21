@@ -12,6 +12,8 @@ layout: default
 >     - Generate Canadian Forest Fire Weather Index System variables
 > - [WindNinja](https://github.com/gagreene/WindNinja)
 >     - Run WindNinja modelling through the command line interface (CLI)
+> - [BCWS Wx Station Data](https://github.com/gagreene/BCWS_WxStation_Data)
+>     - Download BC Wildfire Service weather station data
 <p>&nbsp;</p>
 
 ### Wildfire Fuels Tools
