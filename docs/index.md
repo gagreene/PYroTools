@@ -33,6 +33,6 @@ layout: default
 <p>&nbsp;</p>
 
 ### Helper Tools
-> - [ProcessGeospatial](https://github.com/gagreene/ProcessGeospatial)
+> - [Process Geospatial](https://github.com/gagreene/ProcessGeospatial)
 >     - Use Python geospatial libraries to process rasters and shapefiles
 <p>&nbsp;</p>
