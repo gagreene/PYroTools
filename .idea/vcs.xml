@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fire_behavior/Flame_Components" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fire_behavior/cffdrs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fire_fuels/BC_CFFBPS_FuelTyping_Tool" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fire_weather/BCWS_WxStation_Data" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fire_weather/WindNinja" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fire_weather/cffdrs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/helper_tools/ProcessGeospatial" vcs="Git" />
+  </component>
+</project>
