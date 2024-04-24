@@ -2,22 +2,34 @@
 	path = fire_weather/WindNinja
 	url = https://github.com/gagreene/WindNinja.git
 	ignore = dirty
+	update = merge
 [submodule "fire_weather/cffdrs"]
 	path = fire_weather/cffdrs
 	url = https://github.com/gagreene/cffdrs.git
 	ignore = dirty
-[submodule "fire_behavior/Flame_Components"]
-	path = fire_behavior/Flame_Components
-	url = https://github.com/gagreene/Flame_Components.git
-[submodule "fire_fuels/BC_CFFBPS_FuelTyping_Tool"]
-	path = fire_fuels/BC_CFFBPS_FuelTyping_Tool
-	url = https://github.com/gagreene/BC_CFFBPS_FuelTyping_Tool
-[submodule "fire_behavior/cffdrs"]
-	path = fire_behavior/cffdrs
-	url = https://github.com/gagreene/cffdrs
-[submodule "helper_tools/ProcessGeospatial"]
-	path = helper_tools/ProcessGeospatial
-	url = https://github.com/gagreene/ProcessGeospatial
+	update = merge
 [submodule "fire_weather/BCWS_WxStation_Data"]
 	path = fire_weather/BCWS_WxStation_Data
 	url = https://github.com/gagreene/BCWS_WxStation_Data
+	ignore = dirty
+	update = merge
+[submodule "fire_behavior/Flame_Components"]
+	path = fire_behavior/Flame_Components
+	url = https://github.com/gagreene/Flame_Components.git
+	ignore = dirty
+	update = merge
+[submodule "fire_fuels/BC_CFFBPS_FuelTyping_Tool"]
+	path = fire_fuels/BC_CFFBPS_FuelTyping_Tool
+	url = https://github.com/gagreene/BC_CFFBPS_FuelTyping_Tool
+	ignore = dirty
+	update = merge
+[submodule "fire_behavior/cffdrs"]
+	path = fire_behavior/cffdrs
+	url = https://github.com/gagreene/cffdrs
+	ignore = dirty
+	update = merge
+[submodule "helper_tools/ProcessGeospatial"]
+	path = helper_tools/ProcessGeospatial
+	url = https://github.com/gagreene/ProcessGeospatial
+	ignore = dirty
+	update = merge
