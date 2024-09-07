@@ -24,7 +24,7 @@ layout: default
 ### Fire Behavior Tools
 > - [CFFBPS](https://github.com/gagreene/cffdrs)
 >     - Model fire behavior with the Canadian Forest Fire Behavior Prediction System
-> - [US Fire Modelling]([https://github.com/gagreene/cffdrs](https://github.com/gagreene/US_FireModelling_Automation))
+> - [US Fire Modelling](https://github.com/gagreene/US_FireModelling_Automation)
 >     - Model fire behavior and spread with the Missoula Fire Sciences Laboratory apps, including FlamMap, MTT, and Farsite
 > - [Flame Components](https://github.com/gagreene/Flame_Components)
 >     - Model all the components of flames (length, tilt, depth, height, mid-flame wind speed)
