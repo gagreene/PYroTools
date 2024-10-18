@@ -8,6 +8,8 @@ layout: default
 <p>&nbsp;</p>
 
 ### Fire Weather Tools
+> - [Wind Matrix](https://github.com/gagreene/Wind_Matrix_Tool)
+>     - Generate a wind matrix, wind rose, or calculate wind speed percentiles by groups of wind directions
 > - [CFFWIS](https://github.com/gagreene/cffdrs)
 >     - Generate Canadian Forest Fire Weather Index System variables
 > - [WindNinja](https://github.com/gagreene/WindNinja)
